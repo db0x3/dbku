@@ -1,215 +1,215 @@
 {
-  "creator": "Anup Kumar",
+  "creator": "Aliya Khan",
   "status": true,
   "result": [
     {
       "title": "Prayer Before Meal",
       "arabic": "اَللّٰهُمَّ بَارِكْ لَنَا فِيْمَا رَزَقْتَنَا وَقِنَا عَذَابَ النَّارِ",
-      "latin": "Alloohumma barik lanaa fiimaa razatanaa waqinaa 'adzaa bannar",
+      "latin": "اے اللہ تو نے ہمیں جو رزق دیا ہے اس میں برکت عطا فرما اور ہمیں آگ کے عذاب سے بچا",
       "translation": "O Allah, bless us with what You have provided for us and save us from the punishment of the Fire"
     },
     {
       "title": "Prayer After Meal",
       "arabic": "اَلْحَمْدُ ِللهِ الَّذِىْ اَطْعَمَنَا وَسَقَانَا وَجَعَلَنَا مُسْلِمِيْنَ",
-      "latin": "Alhamdu lillaahil ladzii ath'amanaa wa saqoonaa wa ja'alnaa muslimiin",
+      "latin": "اللہ کا شکر ہے جس نے ہمیں کھلایا پلایا اور مسلمان بنایا۔",
       "translation": "Praise be to God who fed us and gave us drink and made us Muslims."
     },
     {
       "title": "Prayer After Drinking",
       "arabic": "اَلْحَمْدُ ِللهِ الَّذِىْ جَعَلَهُ عَذْبًا فُرَاتًا بِرَحْمَتِهِ وَلَمْ يَجْعَلْهُ مِلْحًا اُجَاجًا بِذُنُوْبِنَا",
-      "latin": "Alhamdu lillaahil ladzi ja'alahuu 'adzbam furootam birohmatihii wa lamyaj'alhu milhan ujaajam bidzunuubinaa",
+      "latin": "اللہ کا شکر ہے جس نے اسے اپنی رحمت سے میٹھا اور غضبناک بنایا اور ہمارے گناہوں پر بحث کرتے ہوئے اسے نمکین نہیں بنایا۔",
       "translation": "Praise be to God, who made it sweet and furious with His mercy, and did not make it salty, arguing with our sins."
     },
     {
       "title": "Prayer When Eating Forgot to Read Prayer",
       "arabic": "بِسْمِ اللهِ فِىِ أَوَّلِهِ وَآخِرِهِ",
-      "latin": "Bismillaahi fii awwalihi wa aakhirihi",
+      "latin": "شروع اور آخر میں خدا کے نام سے",
       "translation": "In the name of God at the beginning and the end"
     },
     {
       "title": "Prayer Before Bed",
       "arabic": "بِسْمِكَ اللّٰهُمَّ اَحْيَا وَاَمُوْتُ",
-      "latin": "Bismikallohumma ahya wa amuutu",
+      "latin": "خدا کے نام پر جیتا اور مرتا ہوں۔",
       "translation": "In the name of God, I live and die"
     },
     {
       "title": "Prayer When a Nightmare",
       "arabic": "اَللّٰهُمَّ إِنّىِ أَعُوْذُ بِكَ مِنْ عَمَلِ الشَّيْطَانِ وَسَيِّئاَتِ اْلأَحْلاَمِ",
-      "latin": "Allaahumma innii a'uudzubika min 'amalisy syaithaani wa sayyiaatil ahlami",
+      "latin": "اے اللہ میں شیطان کے کام اور برے خوابوں سے تیری پناہ مانگتا ہوں۔",
       "translation": "O Allah, I seek refuge in You from the work of Satan and from bad dreams."
     },
     {
       "title": "Prayer When Getting Good Dreams",
       "arabic": "اَلْحَمْدُ ِللهِ الَّذِيْ قَطْلَ الْحَاجَتِ",
-      "latin": "Alhamdulillahil ladzii qodzoo haajaati",
+      "latin": "اللہ کا شکر ہے جس نے ضرورت پوری کی۔",
       "translation": "Praise be to God who fulfilled the need."
     },
     {
       "title": "Wake Up Prayer",
       "arabic": "اَلْحَمْدُ ِللهِ الَّذِىْ اَحْيَانَا بَعْدَمَآ اَمَاتَنَا وَاِلَيْهِ النُّشُوْرُ",
-      "latin": "Alhamdu lillahil ladzii ahyaanaa ba'da maa amaa tanaa wa ilahin nusyuuru",
+      "latin": "حمد اس خدا کے لیے ہے جس نے کبھی کبھی ہمارے مرنے کے بعد اور اسی کی طرف جی اٹھنا ہے۔",
       "translation": "Praise be to God, who at times after we have died, and to Him is the resurrection."
     },
     {
       "title": "Prayer to enter the bathroom or toilet",
       "arabic": "اَللّٰهُمَّ اِنّىْ اَعُوْذُبِكَ مِنَ الْخُبُثِ وَالْخَبَآئِثِ",
-      "latin": "Alloohumma Innii a'uudzubika minal khubutsi wal khoaaitsi",
+      "latin": "اے اللہ میں تیری پناہ مانگتا ہوں شر اور شر سے",
       "translation": "O Allah, I seek refuge in You from wickedness and wickedness"
     },
     {
       "title": "Istinja Prayer",
       "arabic": "اَللّٰهُمَّ حَسِّنْ فَرْجِىْ مِنَ الْفَوَاخِشِ وَظَهِّرْ قَلْبِيْ مِنَ النِّفَاقِ",
-      "latin": "Alloohumma thahhir qolbii minan nifaaqi wa hashshin fajrii minal fawaahisyi",
+      "latin": "اے اللہ میری عفت کو بے حیائی سے بہتر کر اور میرے دل کو نفاق سے بچا",
       "translation": "Oh God, improve my chastity from immorality and guard my heart from hypocrisy"
     },
     {
       "title": "Prayer Exit Bathroom Or Toilet",
       "arabic": "غُفْرَانَكَ الْحَمْدُ ِللهِ الَّذِىْ اَذْهَبَ عَنّى اْلاَذَى وَعَافَانِىْ",
-      "latin": "Ghufraanaka. Alhamdulillaahil ladzii adzhaba ‘annjil adzaa wa’aafaanii",
+      "latin": "تیری بخشش، حمد اس خدا کی جس نے میری تکلیف کو دور کیا اور مجھے شفا بخشی۔",
       "translation": "Your forgiveness, praise be to God who removed my harm and healed me"
     },
     {
       "title": "Prayer Before Fajr Prayer",
       "arabic": "اَللّٰهُمَّ اِنِّى اَعُوْذُ بِكَ مِنْ ضِيْقِ الدُّنْيَا وَضِيْقِ يَوْمِ الْقِيَامَةِ",
-      "latin": "Alloohumma inni a'udzubika min dzhiiqid-dunyaa wa dzhiiqi yaumal-qiyaamati",
+      "latin": "اے اللہ میں دنیا کی پریشانی اور قیامت کے دن کی پریشانیوں سے تیری پناہ مانگتا ہوں۔",
       "translation": "O Allah, I seek refuge in You from the distress of this world and the distress of the Day of Resurrection."
     },
     {
       "title": "Morning Prayer",
       "arabic": "اَللّٰهُمَّ بِكَ اَصْبَحْنَا وَبِكَ اَمْسَيْنَا وَبِكَ نَحْيَا وَبِكَ نَمُوْتُ وَاِلَيْكَ النُّشُوْرُ",
-      "latin": "Alloohumma bika ashbahnaa wa bika amsainaa wa bika nahyaa wa bika namuutu wa ilaikan nusyuuru",
+      "latin": "اے اللہ ہم تیرے ساتھ ہیں اور تیرے ساتھ ہیں اور تیرے ساتھ ہم جیتے ہیں اور تیرے ساتھ ہی مرتے ہیں اور تیری ہی طرف قیامت ہے۔",
       "translation": "Oh God, with you we have become, and with you we have become, and with you we live, and with you we die, and to you is the resurrection."
     },
     {
       "title": "Prayer Welcoming the Afternoon",
       "arabic": "اَللّٰهُمَّ بِكَ اَمْسَيْنَا وَبِكَ اَصْبَحْنَا وَبِكَ نَحْيَا وَبِكَ نَمُوْتُ وَاِلَيْكَ الْمَصِيْرُ",
-      "latin": "Alloohumma bika amsainaa wa bika ashbahnaa wa bika nahyaa wa bika namuutu wa ilaikal mashiir",
+      "latin": "اے خدا تیرے ساتھ ہم بنے اور تیرے ساتھ بنے اور تیرے ساتھ ہی جینا اور تیرے ساتھ مرنا اور تیرا ہی مقدر ہے",
       "translation": "Ya Allah, with you we have become, and with you we have become, and with you we live, and with you we die, and to you is the destiny"
     },
     {
       "title": "Prayer When Reflecting",
       "arabic": "اَلْحَمْدُ ِللهِ كَمَا حَسَّنْتَ خَلْقِىْ  فَحَسِّـنْ خُلُقِىْ",
-      "latin": "Alhamdulillaahi kamaa hassanta kholqii fahassin khuluqii",
+      "latin": "الحمد للہ جس طرح تو نے میرے اخلاق کو سنوارا ہے اسی طرح میرے اخلاق میں بھی بہتری آئی ہے۔",
       "translation": "Praise be to God, as you have improved my morals, so have my morals improved."
     },
     {
       "title": "Home Entrance Prayer",
       "arabic": "اَللّٰهُمَّ اِنّىْ اَسْأَلُكَ خَيْرَالْمَوْلِجِ وَخَيْرَالْمَخْرَجِ بِسْمِ اللهِ وَلَجْنَا وَبِسْمِ اللهِ خَرَجْنَا وَعَلَى اللهِ رَبّنَا تَوَكَّلْنَا",
-      "latin": "Allahumma innii as-aluka khoirol mauliji wa khoirol makhroji bismillaahi wa lajnaa wa bismillaahi khorojnaa wa'alallohi robbina tawakkalnaa",
+      "latin": "اے اللہ میں تجھ سے بہترین راستہ اور بہترین راستہ مانگتا ہوں، اللہ کے نام سے ہم داخل ہوئے اور اللہ کے نام پر ہم نکلے اور اللہ ہی پر ہمارا بھروسہ ہے۔",
       "translation": "Ya Allah, I ask you for the best way out and the best way out. In the name of God we entered and in the name of God we left, and in God our Lord we trust"
     },
     {
       "title": "Prayers Leaving Home / Prayers Traveling",
       "arabic": "بِسْمِ اللهِ تَوَكَّلْتُ عَلَى اللهِ لاَحَوْلَ وَلاَقُوَّةَ اِلاَّ بِالله",
-      "latin": "Bismillaahi tawakkaltu 'alalloohi laa hawlaa walaa quwwata illaa bilaahi",
+      "latin": "خدا کے نام پر، میں نے خدا پر بھروسہ کیا",
       "translation": "In the name of God, I put my trust in God"
     },
     {
       "title": "Prayer Wearing Clothes",
       "arabic": "بِسْمِ اللهِ اَللّٰهُمَّ اِنِّى اَسْأَلُكَ مِنْ خَيْرِهِ وَخَيْرِ مَاهُوَ لَهُ وَاَعُوْذُبِكَ مِنْ شَرِّهِ وَشَرِّمَا هُوَلَهُ",
-      "latin": "Bismillaahi, Alloohumma innii as-aluka min khoirihi wa khoiri maa huwa lahuu wa'a'uu dzubika min syarrihi wa syarri maa huwa lahuu",
+      "latin": "خدا کے نام سے، اے خدا، میں تجھ سے اس کی بھلائی اور اس کی بھلائی کا سوال کرتا ہوں اور اس کے شر اور اس کے ہولناک ہونے سے تیری پناہ چاہتا ہوں۔",
       "translation": "In the name of God, O God, I ask you for its good and the good of what is for it, and I seek refuge in you from its evil and its horrendous"
     },
     {
       "title": "Prayer to Wear New Clothes",
       "arabic": "اَلْحَمْدُ لِلّٰهِ الَّذِىْ كَسَانِىْ هَذَا وَرَزَقَنِيْهِ مِنْ غَيْرِ حَوْلٍ مِنِّىْ وَلاَقُوَّةٍ",
-      "latin": "Alhamdu lillaahil ladzii kasaanii haadzaa wa rozaqoniihi min ghoiri hawlim minni wa laa quwwatin",
+      "latin": "اللہ کا شکر ہے جس نے مجھے یہ لباس پہنایا اور بغیر کسی طاقت اور طاقت کے مجھے عطا کیا۔",
       "translation": "Praise be to God who clothed me with this and provided me with it without any power or strength from me."
     },
     {
       "title": "Prayer of Undressing",
       "arabic": "بِسْمِ اللهِ الَّذِيْ لاَ إِلَهَ إِلَّا هُوَ",
-      "latin": "Bismillaahil ladzii laa ilaaha illaa huwa",
+      "latin": "خدا کے نام سے جس کے سوا کوئی معبود نہیں۔",
       "translation": "In the name of God, besides whom there is no god"
     },
     {
       "title": "Prayer Asking for Useful Knowledge",
       "arabic": "اَللّٰهُمَّ اِنِّى اَسْأَلُكَ عِلْمًا نَافِعًا وَرِزْقًا طَيِّبًا وَعَمَلاً مُتَقَبَّلاً",
-      "latin": "Alloohumma innii as-aluka 'ilmaan naafi'aan wa rizqoon thoyyibaan wa 'amalaan mutaqobbalaan",
+      "latin": "اے اللہ میں تجھ سے نفع بخش علم مانگتا ہوں، اور ان کے پاس اچھا اور قبول کرنے والا تھا۔",
       "translation": "O Allah, I ask You for beneficial knowledge, and they had a good, and pursuant receptive"
     },
     {
       "title": "Prayer Before Studying",
       "arabic": "يَارَبِّ زِدْنِىْ عِلْمًا وَارْزُقْنِىْ فَهْمًا",
-      "latin": "Yaa robbi zidnii 'ilman warzuqnii fahmaa",
+      "latin": "اے رب میرے علم میں اضافہ فرما اور مجھے سمجھ عطا فرما",
       "translation": "O Lord, increase my knowledge and grant me understanding"
     },
     {
       "title": "Prayer After Study",
       "arabic": "اَللّٰهُمَّ اِنِّى اِسْتَوْدِعُكَ مَاعَلَّمْتَنِيْهِ فَارْدُدْهُ اِلَىَّ عِنْدَ حَاجَتِىْ وَلاَ تَنْسَنِيْهِ يَارَبَّ الْعَالَمِيْنَ",
-      "latin": "Allaahumma innii astaudi'uka maa 'allamtaniihi fardud-hu ilayya 'inda haajatii wa laa tansaniihi yaa robbal 'alamiin",
+      "latin": "اے اللہ میں تیرے سپرد کرتا ہوں جو تو نے مجھے سکھایا ہے تو جب مجھے ضرورت ہو تو اسے واپس کردے اور اے رب العالمین اسے نہ بھولنا۔",
       "translation": "O Allah, I entrust to You what You taught me, so return it to me when I need it, and do not forget it, O Lord of the worlds."
     },
     {
       "title": "Travel Prayer",
       "arabic": "اَللّٰهُمَّ هَوِّنْ عَلَيْنَا سَفَرَنَا هَذَا وَاطْوِعَنَّابُعْدَهُ اَللّٰهُمَّ اَنْتَ الصَّاحِبُ فِى السَّفَرِوَالْخَلِيْفَةُفِى الْاَهْلِ",
-      "latin": "Alloohumma hawwin 'alainaa safaranaa hadzaa waatwi 'annaa bu'dahu. Alloohumma antashookhibu fiissafari walkholiifatu fiil ahli",
+      "latin": "اے اللہ ہمارے لیے اس سفر کو آسان فرما، اور اس سے دور رکھنا ہمارے لیے آسان فرما۔",
       "translation": "Oh God, make this journey easy for us, and make it easy for us to keep it away."
     },
     {
       "title": "Vehicle Ride Prayer",
       "arabic": "سُبْحَانَ الَّذِىْ سَخَّرَلَنَا هَذَا وَمَاكُنَّالَهُ مُقْرِنِيْنَ وَاِنَّآ اِلَى رَبِّنَا لَمُنْقَلِبُوْنَ",
-      "latin": "Subhaanalladzii sakkhara lanaa hadza wama kunna lahu muqriniin wa-inna ilaa rabbina lamunqalibuun.",
+      "latin": "پاک ہے وہ ذات جس نے اسے ہمارے لیے مسخر کر دیا اور ہم اس کو جوڑنے میں کامیاب نہ ہو سکے اور ہم اپنے رب کی طرف لوٹنے والے ہیں۔",
       "translation": "Glory be to Him who has subjected this to us, and we have not been able to unite it, and to our Lord we shall return."
     },
     {
       "title": "Boat Boarding Prayer",
       "arabic": "بِسْمِ اللهِ مَجْرَهَا وَمُرْسَهَآاِنَّ رَبِّىْ لَغَفُوْرٌرَّحِيْمٌ",
-      "latin": "Bismillaahi majrahaa wa mursaahaa inna robbii laghofuurur rohiim",
+      "latin": "خدا کے نام سے، اس کا راستہ اور لنگر میرا رب بخشنے والا مہربان ہے۔",
       "translation": "In the name of God, its course and anchorage. My Lord is Forgiving, Merciful."
     },
     {
       "title": "Prayer When Arriving at the Destination",
       "arabic": "اَلْحَمْدُ ِللهِ الَّذِى سَلَمَنِى وَالَّذِى اَوَنِى وَالَّذِى جَمَعَ الشَّمْلَ بِ",
-      "latin": "Alhamdulillahil ladzi sallamani wal ladzi awani wal ladzi jama’asy syamla bi",
+      "latin": "اللہ کا شکر ہے جس نے مجھے نجات دی، جس نے مجھے اکٹھا کیا، اور جس نے مجھے دوبارہ ملایا",
       "translation": "Praise be to God who delivered me, who brought me together, and who reunited me with"
     },
     {
       "title": "Prayer When Going to the Mosque",
       "arabic": "اَللّٰهُمَّ اجْعَلْ فِىْ قَلْبِى نُوْرًا وَفِى لِسَانِىْ نُوْرًا وَفِىْ بَصَرِىْ نُوْرًا وَفِىْ سَمْعِىْ نُوْرًا وَعَنْ يَسَارِىْ نُوْرًا وَعَنْ يَمِيْنِىْ نُوْرًا وَفَوْقِىْ نُوْرًا وَتَحْتِىْ نُوْرًا وَاَمَامِىْ نُوْرًا وَخَلْفِىْ نُوْرًا وَاجْعَلْ لِّىْ نُوْرًا",
-      "latin": "Alloohummaj-'al fii qolbhii nuuroon wa fii lisaanii nuuroon wa fii bashorii nuuroon wa fii sam'ii nuuroon wa'an yamiinii nuuroon wa'an yasaarii nuuroon wa fauqii nuuroo wa tahtii nuuroo wa amaamii nuuroon wa khofii nuuroon waj-'al lii nuuroon",
+      "latin": "اے اللہ میرے دل میں نور، میری زبان میں نور، میری نظر میں نور، میری سماعت میں نور، میرے بائیں طرف نور، میرے دائیں طرف نور اور میرے داہنے نور ڈال، مجھے نور سے ڈھانپ دے، اور میرے نیچے نور ہے۔ اور میرے آگے نور ہے، میرے پیچھے نور ہے، اور میرے لیے روشنی کر",
       "translation": "O Allah, place light in my heart, light in my tongue, light in my sight, light in my hearing, light on my left, light on my right, and light on my right. Cover me with light, and under me is light, and in front of me is light, behind me is light, and make light for me"
     },
     {
       "title": "Prayer Entering the Mosque",
       "arabic": "اَللّٰهُمَّ افْتَحْ لِيْ اَبْوَابَ رَحْمَتِكَ",
-      "latin": "Allahummaf tahlii abwaaba rohmatik",
+      "latin": "اے اللہ میرے لیے اپنی رحمت کے دروازے کھول دے۔",
       "translation": "O Allah, open the doors of your mercy for me"
     },
     {
       "title": "Prayer Exit the Mosque",
       "arabic": "اَللّٰهُمَّ اِنِّى اَسْأَلُكَ مِنْ فَضْلِكَ",
-      "latin": "Allahumma innii asaluka min fadlik",
+      "latin": "اوہ خدا، میں آپ سے پوچھتا ہوں",
       "translation": "Oh God, I ask you please"
     },
     {
       "title": "Prayer Will Read the Qur'an",
       "arabic": "اَللّٰهُمَّ افْتَحْ عَلَىَّ حِكْمَتَكَ وَانْشُرْ عَلَىَّ رَحْمَتَكَ وَذَكِّرْنِىْ مَانَسِيْتُ يَاذَاالْجَلاَلِ وَاْلاِكْرَامِ",
-      "latin": "Alloohummaftah 'alayya hikmataka wansyur 'alayya rohmataka wa dzakkirnii maanasiitu yaa dzal jalaali wal ikhroomi",
+      "latin": "اے اللہ اپنی حکمت کو کھول دے اور اپنی رحمت کو پھیلا دے اور مجھے یاد دلائے کہ میں کیا بھول گیا ہوں",
       "translation": "O Allah, open to your wisdom and spread to your mercy and remind me of what I have forgotten, O Majesty and Honor"
     },
     {
       "title": "Prayer After Reading the Qur'an",
       "arabic": "اَللّٰهُمَّ ارْحَمْنِىْ بِالْقُرْآنِ. وَاجْعَلْهُ لِىْ اِمَامًا وَنُوْرًا وَّهُدًى وَّرَحْمَةً. اَللّٰهُمَّ ذَكِّرْنِىْ مِنْهُ مَانَسِيْتُ وَعَلِّمْنِىْ مِنْهُ مَاجَهِلْتُ. وَارْزُقْنِىْ تِلاَ وَتَهُ آنَآءَ اللَّيْلِ وَاَطْرَافَ النَّهَارٍ. وَاجْعَلْهُ لِىْ حُجَّةً يَارَبَّ الْعَالَمِيْنَ",
-      "latin": "Allahummarhamnii bil qur'aani. waj'alhu lii imaaman wa nuuran wa hudan wa rohman. Allahumma dzakkirnii minhu maa nasiitu wa'allimnii minhu maa jahiltu. wazuqnii tilaa watahu aanaa-al laili wa athroofan nahaari. waj'alhu lii hujjatan yaa robbal 'aalamiina.",
+      "latin": "اے اللہ مجھ پر قرآن کے ساتھ رحم فرما۔ اور اسے میرے لیے امام، نور، ہدایت اور رحمت بنا۔ اے خدا، مجھے اس کی یاد دلاؤ کہ میں بھول گیا تھا اور مجھے اس کی تعلیم دے جو میں نہیں جانتا تھا۔ اور مجھے رات کے اوقات میں اور دن کے آخر میں تلاوت اور تلاوت کی توفیق عطا فرما۔ اور اسے میرے لیے حجت بنا دے، اے رب العالمین۔",
       "translation": "Oh God, have mercy on me with the Qur'an. And make him an imam, a light, a guidance, and a mercy for me. Oh God, remind me of it that I forgot and teach me of it that I did not know. And provide me with recitation and recitation during the hours of the night and the ends of the day. And make it a proof for me, O Lord of the worlds."
     },
     {
       "title": "Prayer of Wudhu intention",
       "arabic": "نَوَيْتُ الْوُضُوْءَ لِرَفْعِ الْحَدَثِ اْلاَصْغَرِ فَرْضًا لِلّٰهِ تَعَالَى",
-      "latin": "Nawaitul whudu-a lirof'il hadatsii ashghori fardhon lillaahi ta'aalaa",
+      "latin": "میں نے اللہ تعالیٰ کے لیے معمولی رسم کی نجاست کو دور کرنے کے لیے وضو کرنے کا ارادہ کیا۔",
       "translation": "I intended to perform ablution to remove minor ritual impurity for God Almighty"
     },
     {
       "title": "Prayer After Ablution",
       "arabic": "اَشْهَدُ اَنْ لاَّاِلَهَ اِلاَّاللهُ وَحْدَهُ لاَشَرِيْكَ لَهُ وَاَشْهَدُ اَنَّ مُحَمَّدًاعَبْدُهُ وَرَسُوْلُهُ. اَللّٰهُمَّ اجْعَلْنِىْ مِنَ التَّوَّابِيْنَ وَاجْعَلْنِىْ مِنَ الْمُتَطَهِّرِيْنَ، وَجْعَلْنِيْ مِنْ عِبَادِكَ الصَّالِحِيْنَ",
-      "latin": "Asyhadu allaa ilaaha illalloohu wahdahuu laa syariika lahu wa asyhadu anna muhammadan ‘abduhuuwa rosuuluhuu, alloohummaj’alnii minat tawwaabiina waj’alnii minal mutathohhiriina, waj'alnii min 'ibadikash shaalihiina",
+      "latin": "میں گواہی دیتا ہوں کہ اللہ کے سوا کوئی معبود نہیں، اکیلا، کوئی شریک نہیں، اور یہ کہ محمد اس کے بندے اور اس کے رسول ہیں۔ اے اللہ مجھے توبہ کرنے والوں میں سے بنا اور مجھے پاکیزگی کرنے والوں میں سے بنا اور مجھے اپنے نیک بندوں میں سے بنا۔",
       "translation": "I bear witness that there is no god but Allah, alone, with no partner, and that Muhammad is His servant and His Messenger. Oh God, make me one of those who repent, and make me one of those who purify themselves, and make me one of your righteous servants."
     },
     {
       "title": "Prayer for Bathing",
       "arabic": "اَللّٰهُمَّ اغْفِرْلِى ذَنْبِى وَوَسِّعْ لِى فِىْ دَارِىْ وَبَارِكْ لِىْ فِىْ رِزْقِىْ",
-      "latin": "Alloohummaghfirlii dzambii wa wassi'lii fii daarii wa baarik lii fii rizqii",
+      "latin": "اے اللہ میرے گناہ معاف فرما، میرے لیے میرے گھر کو کشادہ کر، اور میرے رزق میں برکت عطا فرما۔",
       "translation": "O Allah, forgive my sin, expand my home for me, and bless my sustenance."
     }
   ]
